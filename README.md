@@ -4,6 +4,8 @@ Keeps long pastes as **editable inline text** in [claude.ai](https://claude.ai) 
 
 claude.ai に長文を貼り付けると自動的に添付ファイルへ変換され、テキストのまま保持する選択肢がありません。本拡張は変換が起きる前にペーストを横取りし、改行・段落を保ったまま全文をメッセージ入力欄に直接挿入します。
 
+![Before and after: long pastes stay as inline text instead of becoming an attachment card](./docs/store-assets/screenshot-en-1-compare.png)
+
 ## Features / 特徴
 
 - Long text pastes (≥1,000 chars or ≥5 lines) stay as editable inline text — no more attachment cards
