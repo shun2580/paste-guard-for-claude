@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- tile: deep ink-teal, rounded -->
+  <rect x="0" y="0" width="128" height="128" rx="26" fill="#12474B"/>
+  <!-- clipboard body: warm paper -->
+  <rect x="26" y="20" width="66" height="88" rx="8" fill="#F5F1E6"/>
+  <!-- clipboard clip -->
+  <rect x="46" y="12" width="26" height="14" rx="5" fill="#C9BFA8"/>
+  <rect x="50" y="16" width="18" height="10" rx="3" fill="#F5F1E6"/>
+  <!-- text lines: ink -->
+  <rect x="36" y="38" width="46" height="7" rx="3.5" fill="#28343A"/>
+  <rect x="36" y="52" width="46" height="7" rx="3.5" fill="#28343A"/>
+  <rect x="36" y="66" width="34" height="7" rx="3.5" fill="#28343A"/>
+  <rect x="36" y="80" width="42" height="7" rx="3.5" fill="#28343A"/>
+  <!-- guard shield badge, bottom-right -->
+  <path d="M96 74 L118 82 L118 98 C118 112 108 120 96 124 C84 120 74 112 74 98 L74 82 Z"
+        fill="#2FA36B" stroke="#12474B" stroke-width="5"/>
+  <!-- checkmark -->
+  <path d="M85 98 L93 106 L108 90" fill="none" stroke="#F5F1E6"
+        stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
