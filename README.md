@@ -1,0 +1,1 @@
+# paste-guard-for-claude
