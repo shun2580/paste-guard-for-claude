@@ -17,7 +17,7 @@ claude.ai に長文を貼り付けると自動的に添付ファイルへ変換�
 
 ## Install / インストール
 
-**Chrome Web Store**: (審査通過後にリンクを掲載)
+**Chrome Web Store**: https://chromewebstore.google.com/detail/paste-guard-for-claude/pfdppngcicgihbapegahkcoajmdepiad
 
 **From source / ソースから (load unpacked):**
 
