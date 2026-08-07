@@ -1,4 +1,4 @@
-# Paste Guard for Claude
+# Inline Paste for Claude
 
 Keeps long pastes as **editable inline text** in [claude.ai](https://claude.ai) instead of letting them be auto-converted into file attachments.
 

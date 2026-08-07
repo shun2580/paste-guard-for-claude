@@ -1,10 +1,10 @@
-# Privacy Policy — Paste Guard for Claude
+# Privacy Policy — Inline Paste for Claude
 
-Last updated: 2026-08-03
+Last updated: 2026-08-08
 
 ## English
 
-Paste Guard for Claude does not collect, store, transmit, or share any data. Period.
+Inline Paste for Claude does not collect, store, transmit, or share any data. Period.
 
 - **No data collection.** The extension has no analytics, no telemetry, and no logging beyond the browser's local developer console.
 - **No network activity.** The extension contains no code capable of making network requests. You can verify this in the source code — it is a single ~90-line script.
@@ -15,7 +15,7 @@ Since no data is collected, there is nothing to sell, share, retain, or delete.
 
 ## 日本語
 
-Paste Guard for Claude は、いかなるデータも収集・保存・送信・共有しません。
+Inline Paste for Claude は、いかなるデータも収集・保存・送信・共有しません。
 
 - **データ収集なし。** アナリティクス、テレメトリ、ログ送信は一切ありません(ブラウザのローカルな開発者コンソールへの警告出力を除く)。
 - **通信なし。** 本拡張には通信を行うコードが存在しません。ソースコードは約90行の単一スクリプトで、全文を公開しています。

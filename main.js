@@ -1,5 +1,5 @@
 /**
- * Paste Guard for Claude — main.js
+ * Inline Paste for Claude — main.js
  *
  * claude.ai の入力欄への長文ペーストが添付ファイル化されるのを防ぎ、
  * 全文をそのままエディタに段落として挿入する。
@@ -73,7 +73,7 @@
     } catch (err) {
       // 拡張の不具合でページを壊さない。preventDefault 前の例外なら
       // サイトの通常動作がそのまま続行される
-      console.warn('[paste-guard-for-claude]', err);
+      console.warn('[inline-paste-for-claude]', err);
     }
   };
 
